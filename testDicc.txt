@@ -1,0 +1,4 @@
+hint
+help
+heal
+hell
