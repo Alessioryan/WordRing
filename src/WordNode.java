@@ -48,7 +48,6 @@ public class WordNode {
         }
         temp.delete(temp.length() - 2, temp.length() - 1);
         return temp.toString();
-        //return (new String(this.word) ) + " borders " + this.links.toString();
     }
 
     /*

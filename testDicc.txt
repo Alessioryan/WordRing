@@ -1,4 +1,5 @@
 hint
 help
+heap
 heal
 hell
